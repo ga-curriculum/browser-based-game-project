@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Details](./assets/hero.png)
+# ![Project 1 - Details](./assets/hero.png)
 
 tktk remove any sections below that are unnecessary for this project.
 
