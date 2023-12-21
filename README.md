@@ -1,20 +1,21 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Project 1](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+
+Dive into your first coding project through a fun, browser-based game! Get ready to solve challenging problems and unleash your creativity while thinking like a programmer.
 
 ## Prerequisites
 
-tktk What are the prerequisites of this project?
+This project requires an understanding of basic JavaScript, CSS, and HTML principles, including DOM manipulation. 
 
 ## Content
 
-tktk Make a copy of the Code Review document linked in Google Sheets. Once you have a new URL, replace the one below. Modify the document as necessary. You may need to add or remove sections. Once you have finalized your work on the Code Review document in Google Sheets, download it as a PDF, name the file `code-review.pdf`, and add it to the `project-requirements` directory.
+tktk not sure where to find the link for the google sheets code review. Included the pdf from Notion
 
-⭐️ [Project Details](./project-requirements/README.md)
+⭐️ [Project Details](./project-details/README.md)
 
-✅ [tktk Code Review PDF](./project-requirements/code-review.pdf)
+✅ [tktk Code Review PDF](./project-details/project-1-code-review.pdf)
 
 📊 [tktk Code Review Google Sheets](https://docs.google.com/spreadsheets/d/1JfygeflhfpVYGD2e0uRPLIa7GPsmCS6PfJJdJnqJoGw/edit#gid=696206981)
 
