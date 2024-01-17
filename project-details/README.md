@@ -1,7 +1,5 @@
 # ![Project 1 - Details](./assets/hero.png)
 
-tktk remove any sections below that are unnecessary for this project.
-
 ## Overview
 
 Your first SEI project will be with something fun - **a game!**
@@ -12,109 +10,113 @@ Everyone will get a chance to be creative and work through some tough programmin
 
 **You will be working individually on this project.**
 
-As a reminder, GA has a zero-plagiarism policy - your project’s code **must be substantially yours. Therefore, do not copy code from similar projects or other sources.** However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
+> ❗️ As a reminder, GA has a zero-plagiarism policy - your project’s code **must be substantially yours. Therefore, do not copy code from similar projects or other sources.** However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
-## Presentation - tktk Presentation date
+## Implementation
 
-tktk Add details on the presentation requirements for this project here.
+The implementation of your project will begin with **Planning** and take you all the way through completion to where you have a working game deployed on on the web. This will include all **Technical Requirements**, including **MVP**, the **Code Conventions** used, **UI/UX**, your **README** file, and all of your interactions with **Git and GitHub**.  Fulfillment of each of these requirements will have your project ready for **Presentation**.
 
-## README requirements
+## Planning
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, a Pass with Minor Fixes will be allowed.
+Before the start of your project, the following must be completed and approved by your instructional team:
 
-- **Screenshot**: A screenshot of your game.
-- **Your game’s title**: Also include a description of your game. Background info about why you chose the game is a nice touch.
-- **Getting Started**: Include a link to your deployed game and any instructions you deem important.
-- **Attributions**: Include links to any external resources (such as libraries or assets) you used to develop your application.
-- **Technologies Used**: List of the technologies used, for example: JavaScript, HTML, CSS, etc.
-- **Next Steps**: Planned future enhancements (icebox items).
-- Your `README.md` file must be grammatically correct and free of spelling errors.
-
+- Your choice of game
+- Pseudocode for the overall gameplay
+- A wireframe of your "main" game screen.
+- Any additional game-specific requirements
+- The GitHub repository for your project
 
 ## Technical requirements
 
 ### MVP
 
-> ✅ Any items that are incomplete in this section will require you to use your one redo to re-submit them.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your game must fulfill the below requirements:
 
-- **Render a game in the browser.** You may not use Canvas or jQuery.
-- **Include win/loss logic and render win/loss messages in HTML.**
-- Include separate HTML, CSS, JavaScript, and JavaScript data files organized in an appropriate directory structure.
-- Game must have reset functionality that does not reload the page in the browser.
-- Include functionality specific to your game as specified in square brackets in the Recommended Games section below, or as discussed with your instructor if building a game not on the Recommended Games list.
+- **Render a game in the browser.** You must use the DOM manipulation techniques demonstrated in this unit. DOM manipulation must be achieved without the use of jQuery, or another technology such as Canvas.
+- **Include *Win/Loss* logic and render *Win/Loss* messages in HTML.**
+- **Include separate HTML, CSS, JavaScript, and JavaScript data files organized in an appropriate directory structure.**
+- **Include all required features specific to your game.** They will be defined in square brackets in the Recommended Games section below, or as discussed with your instructor. In the case of building a game not on the Recommended Games list, you will need to present and discuss your game's features with the instructional team for approval.
 
 ### Code convention
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, a Pass with Minor Fixes will be allowed.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, a ***Pass with Minor Fixes*** will be allowed. Your game must fulfill the below requirements:
 
-- Code should run without encountering errors (no errors are present in the console in the browser). 
-- Be coded using function and variable names that make sense and follow the conventions demonstrated in lecture (for example: arrays are always plural).
-- **Display that you are making consistent code choices.** For example, choose between your preference for function declarations vs. function expressions.
-- Have no remaining dead or commented out code, or console logs.
-- Not utilize the `prompt` or `alert` methods.
-- Be coded using proper indentation.
-
+- The game can be played without encountering errors (no errors are present in the console in the browser). 
+- The game is coded using function and variable names that make sense and follow the conventions demonstrated in lecture (for example: arrays are always plural).
+- Have no remaining dead and/or commented out code or console logs outside of a commented out Code Graveyard section of your code.
+- The game does not utilize the `prompt()` or `alert()` methods.
+- The game is coded using proper indentation.
 
 ### UI/UX
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, a Pass with Minor Fixes will be allowed.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, a ***Pass with Minor Fixes*** will be allowed. Your game must fulfill the below requirements:
 
-- Be grammatically correct and be free of spelling errors.
-- Display a favicon.
-- Use CSS Flexbox or Grid.
-- All buttons are styled.
-- UI choices like spacing are consistent and made with intent.
-- The site is navigable by a first time user.
-- The site follows basic accessibility standards such as using colors with appropriate contrast.
+- CSS Flexbox and/or Grid is used for page layout design.
+- Instructions about how to play the game are included in your app.
+- Colors used on the site have appropriate contrast that meet the WCAG 2.0 level AA standard.
+- All images on the site have `alt` text.
 - No text is placed on top of an image in a way that makes the text inaccessible.
+
+### README
+
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, a ***Pass with Minor Fixes*** will be allowed. Your README must fulfill the below requirements:
+
+- **Screenshot**: A screenshot or two of your game.
+- **Your game’s title**: Include a description of your game and what it does. Background info about the game and why you chose it is a nice touch.
+- **Getting Started**: Include a link to your deployed game and any instructions you deem important. This should also contain your planning materials.
+- **Attributions**: Include links to any external resources (such as libraries or assets) you used to develop your application.
+- **Technologies Used**: List of the technologies used, for example: JavaScript, HTML, CSS, etc.
+- **Next Steps**: Planned future enhancements (stretch goals/icebox items).
 
 ### Git
 
-> ✅ Any items that are incomplete in this section will require you to use your one redo to re-submit them.
+> ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements:
 
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project is named appropriately (for example, **connect-four** as opposed to **unit-1-project**) and is publicly accessible. **Be sure to create the repo on your personal GitHub account and ensure that it is public.**
-- **Frequent commits that date back to the very beginning of the project**. Never delete your repo to start over.
-- Commit messages should be in the present tense and meaningful.
+- The GitHub repository used for the project is named appropriately (for example, **connect-four** as opposed to **unit-1-project**) and is publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure that it is public.**
+- **Frequent commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one.
+- Commit messages should be descriptive of the work done in the commit.
 - Be deployed online so that the rest of the world can play your game!
 
+## Presentation
 
-## Other deliverables
+After completion of your project, you will be ready to demonstrate your game to the class. Be prepared to present the below requirements:
 
-## Planning - tktk Due date/time
+- Introduce your game by paraphrasing the README.
+- Launch the game by clicking the link in the README.
+- Play the game! (*If necessary, you may be asked to manipulate the values of variables in the console to ensure a quick win or loss to demonstrate rendering the result.*)
+- Show off something unique in your code or code that you're proud of.
+- Q & A 
 
-> ✅ Any items that are incomplete in this section will require you to use your one redo to re-submit them.
+## Evaluation
 
-You will share with your instructors:
+Upon completion of your presentation, your instructional team will evaluate your project. The team will be following the below requirements:
 
-- Your choice of game
-- Pseudocode for the overall gameplay
-- Any game-specific additional requirements
-- The GitHub repository for your project
-
-
-## Deployment link - Tktk due date and time
-
-Your deployed application with **all the work you have completed up to this point**.
-
-tktk Add details on the requirements to submit a deployment link for this project here. If the deployment link due date is different than the project due date, add copy to ensure they don't confuse the two deliverables.
+- Your instructors will be using the [Project 1 Code Review Form](./project-details/project-1-code-review.pdf) to determine whether or not the project passes all of the minimum requirements.
+- If your instructors determine that your project would pass with minor fixes, you will be required to address the minor deficiencies within 72 hours after receiving project feedback. Please be sure to inform your instructors when the fixes are complete.
+- If your instructors determine that the project does not meet the minimum requirements you may request to address the deficiencies identified and resubmit the project within 72 hours after receiving project feedback. However, be aware that **there is only a single opportunity to resubmit a project during the course**. Please be sure to inform your instructors when the fixes are complete.
+- Immediately after your presentation, your instructors may provide you with feedback that will benefit your project and perhaps the projects of other students.
+- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
 
 ## Notes and guidance
 
 ### Project assistance
-Unit projects are a chance for you to spread your wings and apply everything you’ve learned in this unit. Make sure you're using all of the resource at your disposal to troubleshoot your issues (including your classmates-- debugging each other's code is one of the best ways to learn!). That being said, if you get stuck or need a nudge in the right direction, you can set up 1-on-1 meetings with your instructor (up to 3 for the duration of the project). 
 
-### Project feedback and evaluation
+Unit projects are a chance for you to spread your wings and apply everything you’ve learned in this unit.
 
-- Your instructors will be using the [Project 1 Code Review form](./project-details/project-1-code-review.pdf) to determine whether or not the project passes all of the minimum requirements.
-- If your instructors determine that your project would pass with minor fixes, you will be required to address the minor deficiencies within 72 hours after receiving project feedback. Please be sure to inform your instructors when the fixes are complete.
-- If your instructors determine that the project does not meet the minimum requirements you may request to address the deficiencies identified and resubmit the project within 72 hours after receiving project feedback. However, be aware that **there is only a single opportunity to resubmit a project or project assessment during the course**. Please be sure to inform your instructors when the fixes are complete.
-- Immediately after your presentation, your instructors may provide you with feedback that will benefit your project and perhaps the projects of other students.
-- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!
+Make sure you're using all of the resource at your disposal to troubleshoot your issues:
+
+- Follow the guidelines and principles in the **Guide to Building a Browser App**.
+- Use your Development Tools to debug and solve issues. **Chrome DevTools rock!**
+- **Consult documentation and other resources** to better understand methods, conventions, etc.
+- **Review and check the Project 1 Code Review regularly** to ensure that your project is going to meet the minimum requirements.
+- **Ask and work with your classmates - debugging each other's code is one of the best ways to learn!**
+
+All this being said, if you get stuck or need a nudge in the right direction, you can also set up **1-on-1 meetings with a member of your instructional team**.
 
 ### Level up 🚀
 
-Have you met MVP? Here’s some ideas to level up your project:
+Have you met MVP? Here are some ideas to level up your project:
 
 - Add a Light/Dark Mode.
 - Confetti
@@ -123,7 +125,7 @@ Have you met MVP? Here’s some ideas to level up your project:
 - Computer player
 - Storing data on the client machine using `localStorage`
 
-### Recommended games
+## Recommended games
 
 > ⚠️ Games are listed in **approximate** order of increasing difficulty.
 
@@ -141,11 +143,10 @@ Have you met MVP? Here’s some ideas to level up your project:
 9. **Yahtzee**
 10. **Minesweeper** [Must include a short write up on recursion (what it is, how it works, and why it’s used, along with a working function that utilizes recursion) in your project planning]
 11. **Battleship** (no AI required - player vs. player is fine)
-12. **Board game of your choice approved by an instructor** [must include: a win condition, scoring, art, sound, and animation]
+12. **Game of your choice approved by an instructor** [must include: a win condition, scoring, art, sound, and animation]
 
 **It is highly recommended that you choose from the list above. However, if you feel confident and want to make a game that is not on the list, please be sure to get approval from your instructor before starting your planning (wireframes & pseudocode)!**
 
 > 🚨 The game you choose MUST have a win and/or lose condition.
 
-> 🚨 Because you’ll need to demonstrate your ability to perform DOM manipulation using JavaScript, all applications should be DOM-based. (Less HTML, more JavaScript)
-
+> 🚨 Because you’ll need to demonstrate your ability to perform DOM manipulation using JavaScript, all applications should be DOM-based (less HTML, more JavaScript).
