@@ -129,7 +129,6 @@ Have you met MVP? Here’s some ideas to level up your project:
 
 1. **Quiz Game** [Must Include: at least 3 categories, score mechanics, art, sound, timer, must use a separate data file for the prompts/answers]
 2. **Choose your own Adventure** [Must Include: at least 3 endpoints, art, sound, animation, well written story, must use a separate data file for the storyline].
-3. **War** (the card game) [Must account for War and Double War conditions]
 4. **Simon** [Must include: asynchronous timing]
 5. **Slot Machine** [Must include: asynchronous timing, art, sound, animation, betting mechanics, jackpot mechanics]
 6. **Blackjack** [Must include: ace 1/11 logic, a dealer, and betting mechanics]
