@@ -46,12 +46,4 @@ You will have a maximum of 5 minutes to present your project. While the structur
 - Discuss the game. Including details about why you chose the game is a nice touch.
 - Play the game! Demo a win or lose.
 - Briefly show off something unique in your code or a piece of code you're particularly proud of.
-- Share your experience with the project
-
-1. **Introduce the Project:**
-    - Intro your game by paraphrasing the README.
-2. **Demonstrate the Project:**
-    - Launch the game by clicking the link in the README.
-    - Play the game! If necessary, manipulate the values of variables in the console to ensure a quick win or loss.
-3. **Show/discuss your code:**
-    - Show off something unique in your code or a piece of code that you’re particularly proud of.
+- Share your experience with the project - what was challenging, what will you take away from this?
