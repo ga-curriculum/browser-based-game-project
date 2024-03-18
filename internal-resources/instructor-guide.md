@@ -1,6 +1,13 @@
 # ![Instructor Guide](../assets/instructor-guide.png)
 
-tktk information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
+## Customizing your project week
+
+While the project requirements for a project should not be altered, you're likely going to want to customize a few aspects of how you handle a project week.
+
+- Feature freeze
+- Presentation suggestions
+- Presentation length
+- Deployment instructions
 
 ---
 
