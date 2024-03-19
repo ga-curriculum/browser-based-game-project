@@ -19,7 +19,7 @@ Thanks to the amount of logic in a game, there's no better app to teach you to t
 - Render the game you were approved to build in the browser. You must use the DOM manipulation techniques demonstrated in lecture.
 - Include win/loss logic and render win/loss messages in HTML. The game you chose ***must*** have a win/lose condition.
 - Include separate HTML, CSS, JavaScript, and JavaScript data files organized in an appropriate directory structure.
-- Include all required features specific to your game. Game-specific required features are defined in square brackets in the **Recommended games** section in the **Project Details** document, or as discussed with your instructor. If you want to build a game that is not on the **Recommended games** list, you will need to present and discuss your game's features with the instructional team for approval.
+- Include all required features specific to your game. Game-specific required features are defined in the **Required Features** column in the **Recommended games** table in the **Project Details** document, or as discussed with your instructor. If you want to build a game that is not on the **Recommended games** list, you will need to present and discuss your game's features with the instructional team for approval.
 - The game is deployed online so that the rest of the world can play it!
 
 ### Code convention
