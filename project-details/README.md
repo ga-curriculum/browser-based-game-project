@@ -54,6 +54,6 @@ Have you finished your project? Here are some ideas to level it up:
 You will have a maximum of 5 minutes to present your project. While the structure and content of your presentation are ultimately up to you, here are some potential ideas and topics to cover:
 
 - Discuss the game. Including details about why you chose the game is a nice touch.
-- Play the game! Demo a win or lose.
+- Play the game! Demo a win or loss.
 - Briefly show off something unique in your code or a piece of code you're particularly proud of.
 - Share your experience with the project - what was challenging, what did you gain from building this project?
