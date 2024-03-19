@@ -1,4 +1,4 @@
-# ![Browser-Based Game Project](./assets/tktk-hero.png)
+# ![Browser-Based Game Project](./assets/hero.png)
 
 ## About
 
