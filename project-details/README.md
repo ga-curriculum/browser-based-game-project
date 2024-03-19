@@ -4,17 +4,17 @@
 
 > ⚠️ Games are listed in **approximate** order of increasing difficulty.
 
-1. **Spaceman** [Must include: a theme, must lose after a certain number of bad guesses]
-2. **Concentration (memory game)** [Must include: a theme, must lose after a certain amount of time or a certain number of bad guesses]
-3. **Quiz game** [Must include: at least 2 categories, score mechanics, sound]
-4. **Choose your own adventure** [Must include: at least 3 endpoints, art]
+1. **Spaceman** [Must include: a theme, must lose after a certain number of wrong guesses]
+2. **Concentration (memory game)** [Must include: a theme, must lose after a certain amount of time or a certain number of wrong guesses]
+3. **Quiz game** [Must include: at least two categories, score mechanics, sound]
+4. **Choose your own adventure** [Must include: at least three endpoints, art]
 5. **Mastermind** [Must include: sound, "flood" feature]
 6. **Simon** [Must include: asynchronous timing, sound]
 7. **Wordle** [Must include: on-screen keyboard displaying guessed letters based on their status, animated tiles on letter reveal, word validation (can't enter a word that's not on the list)]
-8. **Snake** [Must lose if the snake hits the edge of the board or itself]
+8. **Snake** [The player must lose if the snake hits the edge of the board or itself]
 9. **Yahtzee**
-10. **Playing card game of your choice approved by an instructor** [must include: a win condition, a theme]
-11. **Minesweeper** [Must include: a short write up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion) in your project planning]
+10. **Playing card game of your choice approved by an instructor** [Must include: a win condition, a theme]
+11. **Minesweeper** [Must include: a short write-up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion) in your project planning]
 12. **Battleship** [no AI is required - player vs. player is fine]
 13. **Checkers** [no AI is required - player vs. player is fine]
 
@@ -26,34 +26,34 @@
 
 ## Getting started
 
-Here's some quick tips to get your project started:
+Here are some quick tips to get your project started:
 
-- Keep it simple. Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to a game without polish.
+- ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to a game without polish.
 - Theme your game to give it a personal touch.
-- Regularly review the project requirements to ensure that you're on track to pass the project.
-- If you're not sure where to begin with planning, check out the [Planning Your Browser Game](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/planning-your-browser-game.html) resource.
-- If you're not sure where to begin with coding, check out the [Build a Browser Game Walkthrough](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/build-a-browser-game-walkthrough.html).
+- Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+- If you're unsure how to begin planning, check out the [Planning Your Browser Game](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/planning-your-browser-game.html) resource.
+- If you're unsure how to start coding, check out the [Build a Browser Game Walkthrough](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/build-a-browser-game-walkthrough.html).
 
 ### Project assistance
 
-Your instructor team will provide guidelines for reaching out for help during week.
+Your instructor team will provide guidelines for reaching out for help during project week.
 
 ### Level up 🚀
 
 Have you finished your project? Here are some ideas to level it up:
 
-- Add a light/dark mode
-- Add fun extras like showing confetti on a win
-- Add audio details
-- Add animations
-- Add a computer player
-- Store data on the client machine using `localStorage`
+- Add a light/dark mode.
+- Add fun extras like showing confetti on a win.
+- Add audio details.
+- Add animations.
+- Add a computer player.
+- Store data on the client machine using `localStorage`.
 
 ## Presentation Ideas
 
-You will have a maximum of 5 minutes to present your project. While the structure of content of your presentation is ultimately up to you, here are some potential ideas and topics to cover:
+You will have a maximum of 5 minutes to present your project. While the structure and content of your presentation are ultimately up to you, here are some potential ideas and topics to cover:
 
 - Discuss the game. Including details about why you chose the game is a nice touch.
 - Play the game! Demo a win or lose.
 - Briefly show off something unique in your code or a piece of code you're particularly proud of.
-- Share your experience with the project - what was challenging, what did you get out of building this project?
+- Share your experience with the project - what was challenging, what did you gain from building this project?
