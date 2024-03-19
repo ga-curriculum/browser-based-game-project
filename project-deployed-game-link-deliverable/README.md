@@ -1,19 +1,11 @@
 # ![Browser-Based Game Project - Project Deployed Game Link Deliverable](./assets/hero.png)
 
+> 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
+
 ## Introduction
 
-To kick off your project you'll need 
+During project week, you'll deploy your project so that others are able to play it on the internet! Follow the [GitHub Pages Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/github-pages/) to deploy your project.
 
 ## Details
 
-You will submit the following details about your project for approval by your instructor:
-
-- Your choice of game.
-- Pseudocode for the overall gameplay. This pseudocode does not need to go into exhaustive detail, but should demonstrate that you have a grasp on the unique challenges that you will encounter while building your game.
-- Any additional project planning requirements specific to the game you have chosen as defined in square brackets in the **Recommended games** section in the **Project Details** document, or as discussed with your instructor.
-
-## Building your planning materials
-
-Use [Google Docs](https://docs.google.com/) for your project planning work. Check out this [Google support article](https://docs.google.com/) to make your planning materials publicly available.
-
-> 🚨 ***It is vital that you make your project planning document publicly accessible otherwise no one can see it! Check out this [Google help article](https://support.google.com/docs/answer/183965) to learn how!***
+Deploy your project by following the guide above. Submit a link to your deployed game.

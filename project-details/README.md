@@ -4,21 +4,21 @@
 
 > ⚠️ Games are listed in **approximate** order of increasing difficulty.
 
-1. **Concentration (memory game)** [Must Include: a theme, must lose after a certain amount of time or a certain number of bad guesses]
-2. **Quiz game** [Must Include: at least 2 categories, score mechanics, sound]
-3. **Choose your own adventure** [Must Include: at least 3 endpoints, art].
-4. **Mastermind** [Must include: sound]
-5. **Simon** [Must include: asynchronous timing, sound]
-6. **Wordle** [Must include: on-screen keyboard displaying guessed letters based on their status, animated tiles on letter reveal, word validation (can't enter a word that's not on the list)]
-7. **Snake** [Must lose if the snake hits the edge of the board or itself]
-8. **Yahtzee**
-9. **Playing card game of your choice approved by an instructor** [must include: a win condition, a theme]
-10. **Minesweeper** [Must include a short write up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion) in your project planning]
-11. **Battleship** (no AI required - player vs. player is fine)
-12. **Checkers** (no AI required - player vs. player is fine)
-13. **Game of your choice approved by an instructor** [must include: a win condition, scoring, art, sound]
+1. **Spaceman** [Must include: ]
+2. **Concentration (memory game)** [Must include: a theme, must lose after a certain amount of time or a certain number of bad guesses]
+3. **Quiz game** [Must include: at least 2 categories, score mechanics, sound]
+4. **Choose your own adventure** [Must include: at least 3 endpoints, art].
+5. **Mastermind** [Must include: sound, "flood" feature]
+6. **Simon** [Must include: asynchronous timing, sound]
+7. **Wordle** [Must include: on-screen keyboard displaying guessed letters based on their status, animated tiles on letter reveal, word validation (can't enter a word that's not on the list)]
+8. **Snake** [Must lose if the snake hits the edge of the board or itself]
+9. **Yahtzee**
+10. **Playing card game of your choice approved by an instructor** [must include: a win condition, a theme]
+11. **Minesweeper** [Must include: a short write up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion) in your project planning]
+12. **Battleship** [no AI required - player vs. player is fine]
+13. **Checkers** [no AI required - player vs. player is fine]
 
-**It is highly recommended that you choose from the list above. However, if you feel confident and want to make a game that is not on the list, please be sure to get approval from your instructor before starting your planning (wireframes & pseudocode)!**
+**It is highly recommended that you choose from the list above. However, if you feel confident and want to make a game that is not on the list, please be sure to get approval from your instructor before starting your planning!**
 
 > 🚨 The game you choose MUST have a win and/or lose condition.
 

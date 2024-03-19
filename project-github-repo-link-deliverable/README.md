@@ -1,6 +1,6 @@
 # ![Browser-Based Game Project - Project GitHub Repo Link Deliverable](./assets/hero.png)
 
-> 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content that exists in Canvas which is intended to potentially be edited by instructors.
+> 🚨 ***Note for the Maintainer:*** This page should not be directly linked to in student-facing material. It is a source-of-truth for the content in Canvas which is intended to potentially be edited by instructors.
 
 ## Introduction
 
