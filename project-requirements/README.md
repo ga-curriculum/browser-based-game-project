@@ -1,4 +1,4 @@
-# ![Browser-Based Game Project Requirements](./assets/hero.png)
+# ![Browser-Based Game Project - Project Requirements](./assets/hero.png)
 
 ## Overview
 
