@@ -14,19 +14,17 @@ This project requires an understanding of basic JavaScript, CSS, and HTML princi
 
 [Project Journey](./project-journey/README.md)
 
+[Project Requirements](./project-requirements/README.md)
+
+[Project Details](./project-details/README.md)
+
 [Project Planning Deliverable](./project-planning-deliverable/README.md)
 
 [Project GitHub Repo Link Deliverable](./project-github-repo-link-deliverable/README.md)
 
 [Project Deployed Game Link Deliverable](./project-deployed-game-link-deliverable/README.md)
 
-[Project Requirements](./project-requirements/README.md)
-
-[Project Details](./project-details/README.md)
-
-[Feeling lost? Check out the tktk doc for building a browser game]
-
-[Code Review PDF](./project-requirements/assets/browser-based-game-project-requirements.pdf)
+[Code Review PDF](./project-requirements/assets/project-requirements.pdf)
 
 [Code Review Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit)
 
