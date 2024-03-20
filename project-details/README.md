@@ -24,7 +24,7 @@
 
 ## Notes and guidance
 
-## Getting started
+### Getting started
 
 Here are some quick tips to get your project started:
 
