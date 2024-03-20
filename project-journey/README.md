@@ -1,12 +1,12 @@
 # ![Browser-Based Game Project - Project Journey](./assets/hero.png)
 
-![The project journey](./assets/project-journey.png)
-
 Project week is when students typically learn the most. During this week you'll have fewer lectures and deliverables that are not related to your project. Instead, you'll primarily be self-directed to plan, build, and complete your project.
 
 You'll need to submit some key deliverables along the way to keep you on track. Finally, at the end of project week you'll present your completed project to the class.
 
-To help you through this process, we've included this guide to walk you through the individual steps outlined below (and shown above) so that you can be sure you're not missing anything along the way.
+To help you through this process, we've included this guide to walk you through the individual steps outlined below so that you can be sure you're not missing anything along the way.
+
+![The project journey](./assets/project-journey.png)
 
 ## Project info
 
