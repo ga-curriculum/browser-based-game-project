@@ -49,7 +49,7 @@ Have you finished your project? Here are some ideas to level it up:
 - Add a computer player.
 - Store data on the client machine using `localStorage`.
 
-## Presentation Ideas
+## Presentation ideas
 
 You will have a maximum of 5 minutes to present your project. While the structure and content of your presentation are ultimately up to you, here are some potential ideas and topics to cover:
 
