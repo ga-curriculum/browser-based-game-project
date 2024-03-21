@@ -16,6 +16,4 @@ You will submit the following details about your project for approval by your in
 
 ## Building your planning materials
 
-Use [Google Docs](https://docs.google.com/) for your project planning work. Check out this [Google support article](https://support.google.com/docs/answer/183965) to make your planning materials publicly available.
-
-> 🚨 ***It is vital that you make your project planning document publicly accessible; otherwise, no one can see it! Check out this [Google help article](https://support.google.com/docs/answer/183965) to learn how!***
+Submit the above information in Canvas.
