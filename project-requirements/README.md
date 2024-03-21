@@ -24,7 +24,7 @@ Thanks to the amount of logic in a game, there's no better app to teach you to t
 
 ### Code convention
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
 
 - The game can be played without encountering errors. No errors may be present in the console in the browser.
 - The game is coded using function and variable names that make sense and follow the conventions demonstrated in lecture (for example: arrays are always plural and functions are action oriented).
@@ -34,7 +34,7 @@ Thanks to the amount of logic in a game, there's no better app to teach you to t
 
 ### UI/UX
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
 
 - CSS Flexbox and/or Grid is used for page layout design.
 - Instructions about how to play the game are included in your app.
@@ -52,7 +52,7 @@ Thanks to the amount of logic in a game, there's no better app to teach you to t
 
 ## README Requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If 2 or fewer items are marked incomplete, the project is considered passing. Your README must contain the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the below requirements.
 
 - Screenshot: A screenshot or two of your game.
 - Your game's title: Include a description of your game and what it does. Background info about the game and why you chose it is a nice touch.
