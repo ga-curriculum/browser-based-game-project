@@ -8,7 +8,7 @@ Thanks to the amount of logic in a game, there's no better app to teach you to t
 
 ***You will work individually on this project***.
 
-> ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
+> ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
 ## Technical requirements
 
