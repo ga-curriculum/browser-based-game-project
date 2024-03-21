@@ -4,19 +4,21 @@
 
 > ⚠️ Games are listed in **approximate** order of increasing difficulty.
 
-1. **Spaceman** [Must include: a theme, must lose after a certain number of wrong guesses]
-2. **Concentration (memory game)** [Must include: a theme, must lose after a certain amount of time or a certain number of wrong guesses]
-3. **Quiz game** [Must include: at least two categories, score mechanics, sound]
-4. **Choose your own adventure** [Must include: at least three endpoints, art]
-5. **Mastermind** [Must include: sound, "flood" feature]
-6. **Simon** [Must include: asynchronous timing, sound]
-7. **Wordle** [Must include: on-screen keyboard displaying guessed letters based on their status, animated tiles on letter reveal, word validation (can't enter a word that's not on the list)]
-8. **Snake** [The player must lose if the snake hits the edge of the board or itself]
-9. **Yahtzee**
-10. **Playing card game of your choice approved by an instructor** [Must include: a win condition, a theme]
-11. **Minesweeper** [Must include: a short write-up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion) in your project planning]
-12. **Battleship** [no AI is required - player vs. player is fine]
-13. **Checkers** [no AI is required - player vs. player is fine]
+| **Game** | **Required Features** | **Additional Planning Requirements** |
+|:--------:|:---------------------:|:------------------------------------:|
+| Spaceman                                                   | A theme. The player must lose after a certain number of wrong guesses.  |                                                                                                                                                                                                                     |
+| Concentration (memory game)                                | A theme. The player must lose after a certain amount of time has passed or a certain number of wrong guesses. |                                                                                                                                                                               |
+| Quiz game                                                  | A theme. At least two categories. Score mechanics. Audio.               |                                                                                                                                                                                                                     |
+| Choose you own adventure                                   | At least three endpoints. Art.                                          |                                                                                                                                                                                                                     |
+| Mastermind                                                 | Audio.                                                                  |                                                                                                                                                                                                                     |
+| Simon                                                      | Asynchronous timing. Audio.                                             |                                                                                                                                                                                                                     |
+| Wordle                                                     | On-screen keyboard displayed guessed letters based on their status. Animated tiles on letter reveal. Word validation so the user can't enter words not on the list. |                                                                                                                         |
+| Snake                                                      | The player must lose if the snake hits the edge of the board or itself. | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
+| Yahtzee                                                    |                                                                         | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
+| Playing card game of your choice approved by an instructor | A win condition. A theme. Use the card game starter.                    | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
+| Minesweeper                                                | "Flood" feature.                                                        | A short write-up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion). Submit an initial data structure of your game state along with your pseudocode. |
+| Battleship                                                 | No AI is required - player vs. player is fine.                          | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
+| Checkers                                                   | No AI is required - player vs. player is fine.                          | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
 
 **It is highly recommended that you choose from the list above. However, if you feel confident and want to make a game that is not on the list, please be sure to get approval from your instructor before starting your planning!**
 
