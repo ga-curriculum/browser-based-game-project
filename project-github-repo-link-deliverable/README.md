@@ -6,7 +6,7 @@
 
 After your project proposal has been approved, the next action you'll take is to set up a GitHub repo for your project.
 
-> 🚨 As a reminder, you must use the same repo for the entire duration of your project to meet the project requirements. You ***should never*** start over with a new repo after you've started your project.
+> 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
 ## Details
 
