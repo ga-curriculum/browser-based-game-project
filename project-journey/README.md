@@ -24,7 +24,7 @@ Once your project proposal is approved, create the public GitHub repo that you'l
 
 ## 3. Build the project
 
-The fun part! Start building your project!
+The fun part! Start building your project! Make sure you're reviewing the project requirements throughout project week. The printable [project requirements PDF](../project-requirements/assets/project-requirements.pdf) may be useful for checking items off as you go through project week.
 
 ## 4. Deploy the work you have so far
 
