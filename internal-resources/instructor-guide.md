@@ -1,36 +1,57 @@
 # ![Instructor Guide](../assets/instructor-guide.png)
 
-## Customizing your project week
+## What's included?
 
-While the project requirements should not be altered, you'll likely want to customize a few aspects of how you handle a project week.
-
-These pages can be edited in Canvas:
+This is the repo for an individual Browser-Based Game Project. It includes:
 
 - Browser-Based Game Project Journey
+- Browser-Based Game Project Requirements
+- Browser-Based Game Project Recommended Games
 - Browser-Based Game Project Details
-- Browser-Based Game Project Planning Deliverable
-- Browser-Based Game Project GitHub Link Deliverable
-- Browser-Based Game Project Deployment Link Deliverable
+- Browser-Based Game Project Deliverables [students submit links to project planning materials, a front-end and back-end GitHub repo, and a deployed app throughout project week. This can be customized - see the **Customizing deliverables** section]
+- Browser-Based Game Project Feedback [in Canvas only]
 
-While all these pages can be edited, you'll likely want to make the most edits on the Browser-Based Game Project Details page. Some sensible defaults are provided here, but you may want to customize some aspects of this document to match how you'd like to structure your project week for your students.
+## Customizing your project week
 
-Some existing items already covered in this document that you may want to customize include:
+Customize your project week by adding to the existing project documentation. Existing content should not be changed, but you may remove it if there are direct conflicts with your customizations. Ensure you're still providing students with enough background information to succeed during project week if you do this.
 
-- The recommended games list (you may want to add or remove games from this list).
-- Helpful tips to get started.
+You should not add, remove, or alter any project requirements.
+
+The Browser-Based Game Project Details page provides some basic background information for the project. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to structure your project week for your students.
+
+Some existing items already covered in this document that you may want to expand on include:
+
+- Some helpful tips to get started.
 - Details on how you will provide project assistance
 - Level Up ideas for students after they have completed their projects.
 - Presentation details such as the time allotted for presentations and suggested topics for students to cover during their presentations.
 
-You may also make additions to this document, such as:
+You may also want to make additions, such as:
 
-- Examples of good planning materials.
+- Examples of suitable planning materials.
 - Examples of previous student projects.
-- Schedule considerations such as any bonus lectures or stand ups.
+- Schedule considerations such as any bonus lectures or stand-ups.
 
-You may also want to make changes to the planning materials students submit and the app students use to build their planning materials. By default they'll submit planning materials using the Canvas interface - if you'd prefer something different be sure to indicate that in the Planning Deliverable document.
+You will likely want to replace the existing Recommended Games document, it's a suitable starting point, but you'll want to make changes to this based on what your team will be comfortable providing support for during a project week.
 
-When making edits, be mindful of overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
+You may also want to make changes to the planning materials students submit and the app they use to build them. For this project, students will build their planning materials using Canvas by default. If you'd prefer something different, you'll need to create new Project Planning Deliverable documents.
+
+When making additions, avoid overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
+
+### Customizing deliverables
+
+Some instructors may want to split the project deliverable into multiple parts to give each item its own due date or to ease data collection. Individual/coupled deliverable pages exist in this content and do not need to be created. These can be found at:
+
+**Individual**:
+
+- [Project Planning Deliverable](../project-planning-deliverable/README.md)
+- [Project GitHub Repo Link Deliverable](../project-github-repo-link-deliverable/README.md)
+- [Project Deployed App Link Deliverable](../project-deployed-app-link-deliverable/README.md)
+
+**Coupled**:
+
+- [Project Planning and GitHub Repo Link Deliverable](./project-planning-and-github-repo-link-deliverable/README.md)
+- [Project GitHub Repo and Deployed App Links Deliverable](./project-github-repo-and-deployed-app-links-deliverable/README.md)
 
 ## Notes for maintainers
 
