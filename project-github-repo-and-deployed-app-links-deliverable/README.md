@@ -37,7 +37,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your GitHub repo.
 
 ### Submitting your deployed app link
 
-Deploy your project by following the guide above. Submit a link to your deployed app in the following format:
+Deploy your project by following the guide above. Submit a link to your deployed app below in the following format:
 
 ```plaintext
 Deployed project link: <link>

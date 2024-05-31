@@ -6,4 +6,4 @@ During project week, you'll deploy your project so that others are able to play 
 
 ## Details
 
-Deploy your project by following the guide above. Submit a link to your deployed game.
+Deploy your project by following the guide above. Submit a link to your deployed game below.

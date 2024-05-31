@@ -8,4 +8,4 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 ## Details
 
-Submit a link to the GitHub repo that you are using for your Browser-Based Game Project.
+Submit a link to the GitHub repo that you are using for your Browser-Based Game Project below.
