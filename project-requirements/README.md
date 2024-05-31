@@ -18,18 +18,18 @@ A printable PDF version of these project requirements can be found [here](./asse
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your game must fulfill the below requirements.
 
-- Render the game you were approved to build in the browser. You must use the DOM manipulation techniques demonstrated in lecture.
+- Render the game in the browser using the DOM manipulation techniques demonstrated in lecture.
 - Include win/loss logic and render win/loss messages in HTML. The game you chose ***must*** have a win/lose condition.
 - Include separate HTML, CSS, JavaScript, and JavaScript data files organized in an appropriate directory structure.
-- Include all required features specific to your game. Game-specific required features are defined in the **Required Features** column in the **Recommended games** table in the **Project Details** document, or as discussed with your instructor. If you want to build a game that is not on the **Recommended games** list, you will need to present and discuss your game's features with the instructional team for approval.
-- The game is deployed online so that the rest of the world can play it!
+- Include all required features specific to your game. Game-specific required features are defined in the **Required Features** column in the table in the **Recommended Games** document, or as discussed with your instructor. If you want to build a game that is not on this list, you will need to present and discuss your game's features with the instructional team for approval.
+- The game is deployed online so that the rest of the world can play it.
 
 ### Code convention
 
 > ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your game must fulfill the below requirements.
 
 - The game can be played without encountering errors. No errors may be present in the console in the browser.
-- The game is coded using function and variable names that make sense and follow the conventions demonstrated in lecture (for example: arrays are always plural and functions are action oriented).
+- The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
 - There is no remaining dead and/or commented out code or console logs outside of a commented out Code Graveyard section of your code.
 - The game may not utilize the `prompt()` or `alert()` methods.
 - The game is coded using proper indentation.
@@ -44,30 +44,31 @@ A printable PDF version of these project requirements can be found [here](./asse
 - All images on the site have `alt` text.
 - No text is placed on top of an image in a way that makes the text inaccessible.
 
-### Git
+### Git and GitHub
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your interactions with Git and GitHub must fulfill the below requirements.
 
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repository used for the project is named appropriately (for example, **connect-four** as opposed to **browser-based-game-project**) and is publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure that it is public.***
+- The GitHub repository used for the project is named appropriately. For example, names like connect-four or adventure-game are appropriate names, whereas game-project or ga-project are not. The repo must be publicly accessible. ***Be sure to create the repo on your personal GitHub account and ensure that it is public.***
 - **Your repo should have commits that date back to the very beginning of the project**. If you start over with a new repo, do not delete the old one. Your commit messages should be descriptive of the work done in that commit.
 
 ## README Requirements
 
-> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the below requirements.
+> ✅ More than two items marked incomplete in this section will require you to use your one redo to re-submit them. If two or fewer items are marked incomplete, the project is considered passing. Your README must contain the items or sections below.
 
-- Screenshot: A screenshot or two of your game.
-- Your game's title: Include a description of your game and what it does. Background info about the game and why you chose it is a nice touch.
-- Getting Started: Include a link to your deployed game and any instructions you deem important. This should also contain a link to your planning materials.
-- Attributions (if applicable): Include links to any external resources (such as libraries or assets) you used to develop your application.
-- Technologies Used: List of the technologies used, for example: JavaScript, HTML, CSS, etc.
-- Next Steps: Planned future enhancements (stretch goals/icebox items).
+- **Screenshot/Logo**: A screenshot of your app or a logo.
+- **Your game's name**: Include a description of your game and what it does. Background info about the game and why you chose it is a nice touch.
+- **Getting started**: Include a link to your deployed game and any instructions you deem important. This should also contain a link to your planning materials.
+- **Attributions**: This section should include links to any external resources (such as libraries or assets) you used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
+- **Technologies used**: List of the technologies used, for example: JavaScript, HTML, CSS, etc.
+- **Next steps**: Planned future enhancements (stretch goals).
 
 ## Presentation Requirements
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them.
 
 - Present your project in front of the class on the scheduled presentation day.
+- The project you present is the project you were approved by your instructor to build.
 
 ## Evaluation
 

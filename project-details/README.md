@@ -1,40 +1,19 @@
 # ![Browser-Based Game Project - Project Details](./assets/hero.png)
 
-## Recommended games
-
-> ⚠️ Games are listed in **approximate** order of increasing difficulty.
-
-| **Game** | **Required Features** | **Additional Planning Requirements** |
-|:--------:|:---------------------:|:------------------------------------:|
-| Spaceman                                                   | A theme. The player must lose after a certain number of wrong guesses.  |                                                                                                                                                                                                                     |
-| Concentration (memory game)                                | A theme. The player must lose after a certain amount of time has passed or a certain number of wrong guesses. |                                                                                                                                                                               |
-| Quiz game                                                  | A theme. At least two categories. Score mechanics. Audio.               |                                                                                                                                                                                                                     |
-| Choose you own adventure                                   | At least three endpoints. Art.                                          |                                                                                                                                                                                                                     |
-| Mastermind                                                 | Audio.                                                                  |                                                                                                                                                                                                                     |
-| Simon                                                      | Asynchronous timing. Audio.                                             |                                                                                                                                                                                                                     |
-| Wordle                                                     | On-screen keyboard displayed guessed letters based on their status. Animated tiles on letter reveal. Word validation so the user can't enter words not on the list. |                                                                                                                         |
-| Snake                                                      | The player must lose if the snake hits the edge of the board or itself. | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
-| Yahtzee                                                    |                                                                         | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
-| Playing card game of your choice approved by an instructor | A win condition. A theme. Use the card game starter.                    | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
-| Minesweeper                                                | "Flood" feature.                                                        | A short write-up on recursion (what it is, how it works, and why it's used, along with a working function that utilizes recursion). Submit an initial data structure of your game state along with your pseudocode. |
-| Battleship                                                 | No AI is required - player vs. player is fine.                          | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
-| Checkers                                                   | No AI is required - player vs. player is fine.                          | Submit an initial data structure of your game state along with your pseudocode.                                                                                                                                     |
-
-**It is highly recommended that you choose from the list above. However, if you feel confident and want to make a game that is not on the list, please be sure to get approval from your instructor before starting your planning!**
-
-> 🚨 The game you choose MUST have a win and/or lose condition.
-
 ## Notes and guidance
 
 ### Getting started
 
 Here are some quick tips to get your project started:
 
+- Discuss your app idea with an instructor to get feedback before you dive too deep into planning.
 - ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to a game without polish.
 - Theme your game to give it a personal touch.
+- Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
 - Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
 - If you're unsure how to begin planning, check out the [Planning Your Browser Game](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/planning-your-browser-game.html) resource.
 - If you're unsure how to start coding, check out the [Build a Browser Game Walkthrough](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/build-a-browser-game-walkthrough.html).
+- Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
 
 ### Project assistance
 
